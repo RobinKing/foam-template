@@ -50,7 +50,7 @@
 
 ## 提交问题
 
-**与原文不同的是，关于中文模板的问题，请在[当前仓库](https://github.com/RobinKing/foam-template)提交问题。下面为原文：**
+**与原文不同的是，关于中文模板的问题，请在[当前仓库](https://github.com/RobinKing/foam-template-chinese)提交问题。下面为原文：**
 
 如你可能已经注意到的，英文模板下的问题是被禁用的。为了使项目易于维护，请将你的问题提交到Foam主仓库:
 
